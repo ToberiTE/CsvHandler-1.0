@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\bin\Debug\CsvHandler.exe.config
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\bin\Debug\CsvHandler.exe
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\bin\Debug\CsvHandler.pdb
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\bin\Debug\CsvHelper.dll
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\bin\Debug\CsvHelper.xml
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\obj\Debug\CsvHandler.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\obj\Debug\CsvHandler.csproj.CopyComplete
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\obj\Debug\CsvHandler.exe
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\obj\Debug\CsvHandler.pdb
+C:\Users\Admin\source\repos\CsvHandler\CsvHandler\obj\Debug\CsvHandler.csprojAssemblyReference.cache
